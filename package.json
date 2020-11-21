@@ -1,0 +1,29 @@
+{
+  "name": "ozgun-sefa-ozturk",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ozgun": "echo 'Benim adım Özgün'",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Ozgun Sefa Ozturk",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.15",
+    "nodemailer": "^6.4.16",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OzgunSefaOzturk/ozgun-sefa-ozturk.git"
+  }
+}
